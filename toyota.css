@@ -1,0 +1,417 @@
+.a{
+    margin-left: 1150px;
+    
+}
+.a1{
+  
+    margin-top: -40px;
+    margin-left: 40px;
+}
+.b{ 
+    margin-top: 70px;
+    margin-left: 240px;
+}
+.c{
+    height: 220px;
+    width: 100%;
+}
+@font-face {
+    font-family: 'durai';
+    src: url(Oswald.zip);
+}
+.c1{
+    font-family: 'durai';
+    font-size: 4.5rem;
+    font-style: normal;
+    text-align: center;
+
+}
+.c2{
+    font-family: 'duraip';
+    font-style: italic;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 400;
+}
+.d{
+    
+    width: 100%;
+    height: 450px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+}
+.d1{
+    margin-left: -160px;
+}
+.d3{
+    font-family: 'durai';
+    font-size: 36px;
+    margin-left: 60px;
+    margin-top: -100px;
+}
+.d4{
+    margin-left: 110px;
+    font-style: italic;
+    font-size: 16px;
+   margin-top: 50px;
+   font-family:'duraip';
+   
+}
+.d5{
+    border: 1px solid;
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    background-image: linear-gradient(to right, #84abec, #cf84fb);
+    margin-left: 120px;
+    margin-top: 40px;
+}
+.d6{
+    text-align: center;
+    margin-top: 10px;
+}
+.e{
+    
+    height: 500px;
+    width: 100%; 
+}
+
+.e1{
+    margin-left: 450px;
+    margin-top: 50px;
+}
+.e3{
+    font-family: 'durai';  
+    font-size: 36px;
+ margin-left: 50px;
+ margin-top: -400px;
+}
+.e4{
+   
+    text-align: center;
+    margin-left: -830px;
+    margin-top: 30px;
+    font-style: italic;
+    font-size: 16px;
+    font-family: 'duraip';
+    
+    
+}
+.e5{
+    border: 1px solid;
+    height: 40px;
+    width: 150px;
+    margin-left: 120px;
+    border-radius: 50px;
+    background-color: #000000;
+    
+}
+.e6{
+    text-align: center;
+    margin-top: 10px;
+    color: azure;
+}
+
+.f{
+    height: 500px;
+    width: 100%;
+    
+}
+.f1{
+    margin-left: -0.01px;
+    margin-top:-0.01px;
+}
+.f2{
+    font-family: 'durai';
+    font-size: 36px;
+    margin-left: 65px;
+    margin-top: -100px;
+}
+.f3{
+    margin-left: 70px;
+    font-family: 'duraip';
+    font-style: italic;
+    font-size: 16px;
+    
+}
+.f4{
+    margin-left: 400px;
+    margin-top: -350px;
+    font-style: italic;
+    font-size: 1rem;
+}
+.f5{
+    background-image: linear-gradient(to right, #35ced0, #84abec);
+    border: 1px solid;
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    margin-top: -100px;
+    margin-left: 100px;
+}
+.f6{
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff;
+}
+.g{
+    
+    width: 100%;
+    height: 550px;
+    display: flex;
+}
+.g2{
+    margin-top: 100px;
+    
+}
+
+.g5{
+    border: 1px solid;
+    height: 40px;
+    width: 130px;
+    border-radius: 50px;
+    margin-top: 420px;
+    margin-left: -350px;
+    background-color: #000000;
+}
+.g6{
+    text-align: center;
+    margin-top: 10px;
+    color: #ffffff;
+}
+.g1{
+    margin-left: -400px;
+}
+.h{
+    border: 1px solid;
+    width: 100%;
+    height: 590px;
+    background-image: linear-gradient(-90deg, #cf84fb, #35ced0);
+    
+}
+.h1{
+    margin-top: 100px;
+    margin-left: 100px;
+    line-height: 1.6;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'duraip';
+    color: #ffffff;
+}
+.h2{
+    margin-left: 645px;
+    margin-top: -330px;
+
+}
+.h3{
+    font-family: 'durai';
+    font-size: 48px;
+    margin-top: -280px;
+    margin-left: 100px;
+}
+.h4{
+    border: 1px solid rgb(168, 49, 49);
+    height: 40px;
+    width: 130px;
+    margin-left: 100px;
+    border-radius: 50px;
+}
+
+.i{
+    
+    width: 100%;
+    height: 600px;
+    display: flex;
+      
+      
+    
+  
+  }
+  .i2{
+      margin-top: 120px;
+  
+  }
+  .i3{
+      font-family: 'durai';
+      font-size: 36px;
+  margin-top: -100px;
+  margin-left: 80px;
+  
+  }
+  .i4{
+          margin-left: 120px;
+          margin-top: 50px;
+          font-style: italic;
+          font-size: 16px;
+          font-family: 'duraip';
+          
+  }
+  .i5{
+      border: 1px solid;
+      height: 40px;
+      width: 130px;
+      margin-top: 50px;
+      border-radius: 50px;
+      background-image: linear-gradient(to right, #84abec, #cf84fb);
+      margin-left: 120px;
+  }
+  .i6{
+      text-align: center;
+      margin-top: 10px;
+  }
+  
+
+.k{
+    
+    height: 230px;
+    width: 100%;
+}
+.k1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.k3{
+    font-family: 'durai';
+    font-size: 36px;
+    margin-top: -80px;
+    margin-left: 160px;
+}
+.k4{
+    margin-left: 180px;
+    font-family: 'duraip';
+    font-size: 16px;
+}
+
+.g3{
+    font-family: 'durai';
+    font-size: 36px;
+    margin-left: 40px;
+}
+.g4{
+    margin-left: 40px;
+    font-style: italic;
+    font-size:16px;
+    font-family: 'duraip'; 
+}
+.l{
+    
+    height: 600px;
+    width: 100%;
+}
+.l1{
+    
+    height: 310px;
+    width: 310px;
+    
+}
+.l2{
+    
+    height: 310px;
+    width: 310px;
+}
+.l3{
+   
+    height: 310px;
+    width: 310px;
+}
+.l4{
+    
+    height: 310px;
+    width: 310px;
+}
+.l9,.l10{
+    display: flex;
+    width: 100%;
+}
+.l5{
+    
+    height: 310px;
+    width: 310px;
+}
+.l6{
+    
+    height: 310px;
+    width: 310px;
+}
+.l7{
+    
+    height: 310px;
+    width: 310px;
+}
+.l8{
+    
+    height: 310px;
+    width: 310px;
+}
+.n{
+    border: 1px solid;
+    height: 413px;
+    width: 100%;
+    background-color: #2b2933;
+    margin-top: 20px;
+    
+    
+    
+   
+}
+.n1{
+    
+    margin-top: 30px;
+    text-align: center;   
+}
+
+@font-face {
+    font-family: 'duraip';
+    src: url(Open_Sans/OpenSans-Italic-VariableFont_wdth\,wght.ttf);
+}
+.n2{
+    
+    width: 360px;
+    height: 90px;
+    margin-top: 50px;  
+    margin-left: 10px;
+    
+}
+.n3{
+   
+    width: 360px;
+    height: 90px;
+    margin-left: 400px;
+    margin-top: -109px;
+
+}
+.n4{
+
+    width: 360px;
+    height: 90px;
+    margin-left: 850px;
+    margin-top: -109px;
+    
+}
+.n5{
+    color: #ffffff;
+    text-align: center;
+}
+.n6{
+    color: #ffffff;
+    text-align: center;
+
+}
+.n7{
+    color: #ffffff;
+    text-align: center;
+
+}
+.n8{
+    text-align: center;
+    }
+    .n9{
+        color: #ffffff;
+        text-align: center;
+    }
+   
+
+  
+
